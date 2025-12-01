@@ -26,6 +26,7 @@ print(''.join(c))
 #swapcase
 s="Hello World"
 print(s.swapcase())
+s1=('hi python')
 
 
 
